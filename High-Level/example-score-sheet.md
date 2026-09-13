@@ -19,7 +19,7 @@ NOTE: These values are hypothetical and serve as an illustration only.
 
 ---
 
-## 2. Overall Maturity Score
+## 2. Overall Target Attainment
 
 Overall Target Attainment:
 (0.50 + 0.75 + 0.50 + 0.25 + 0.75) / 5 = 0.55 (55%)
