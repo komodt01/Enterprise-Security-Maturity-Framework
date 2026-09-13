@@ -1,5 +1,6 @@
 # Maturity Model Architecture
 
+```text
 +--------------------------------------------------+
 |                  Business Drivers                |
 |  Regulatory │ Risk │ SLA │ Cost │ Growth │ Cloud |
@@ -37,9 +38,10 @@
                              |
                              v
 +----------------------------+---------------------+
-|               Continuous Improvement              |
+|               Continuous Improvement             |
 | Re-Assess │ Update Initiatives │ Optimize Controls |
 +--------------------------------------------------+
+```
 
-Domains Evaluated:
-  Governance │ IAM │ Data │ Logging │ Platform │ Network │ DevSecOps │ Vendor
+**Domains Evaluated:**  
+Governance │ IAM │ Data │ Logging │ Platform │ Network │ DevSecOps │ Vendor
