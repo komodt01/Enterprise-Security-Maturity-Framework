@@ -25,12 +25,18 @@ Format reference: see `gap-analysis.md`.
 
 ## 2. Risk Ranking
 
-Gaps are ranked to determine which roadmap items deliver the greatest benefit:
+Gaps are prioritized based on risk and business context rather than maturity score alone.
 
-- Based on maturity gap
-- Business criticality
-- Regulatory or audit urgency
-- Cost and effort of remediation
+Prioritization considers:
+
+* Maturity gap
+* Risk severity
+* Business criticality
+* Regulatory or audit urgency
+* Dependencies
+* Cost and effort of remediation
+
+A lower maturity level does not automatically result in a higher remediation priority. Priorities should reflect the potential business impact, risk reduction, and sequencing dependencies associated with each gap.
 
 Format reference: see `risk-ranking.md`.
 
